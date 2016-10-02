@@ -1,2 +1,2 @@
 # GLCMFeatureExtraction
-Gray-Level Co-Occurrence Matrix
+Gray-Level Co-Occurrence Matrix Feature Extraction
