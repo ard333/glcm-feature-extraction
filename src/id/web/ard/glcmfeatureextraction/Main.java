@@ -9,7 +9,7 @@ import java.util.logging.Logger;
  *
  * @author Ardiansyah <ard333.ardiansyah@gmail.com>
  */
-public class GLCMFE {
+public class Main {
 
 	/**
 	 * @param args the command line arguments
@@ -25,7 +25,7 @@ public class GLCMFE {
 			System.out.println("Energy: "+glcmfe.getEnergy());
 			System.out.println("Dissimilarity: "+glcmfe.getDissimilarity());
 		} catch (IOException ex) {
-			Logger.getLogger(GLCMFE.class.getName()).log(Level.SEVERE, null, ex);
+			Logger.getLogger(Main.class.getName()).log(Level.SEVERE, null, ex);
 		}
 	}
 	
