@@ -3,7 +3,7 @@
  *
  */
 
-package id.web.ard.glcmfeatureextraction;
+package com.ard333.glcmfeatureextraction;
 
 import java.awt.Color;
 import java.awt.image.BufferedImage;

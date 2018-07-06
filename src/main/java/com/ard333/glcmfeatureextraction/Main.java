@@ -1,4 +1,4 @@
-package id.web.ard.glcmfeatureextraction;
+package com.ard333.glcmfeatureextraction;
 
 import java.io.File;
 import java.io.IOException;
